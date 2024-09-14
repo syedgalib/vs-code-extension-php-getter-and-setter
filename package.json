@@ -6,7 +6,7 @@
     "name": "Syed Galib Ahmed"
   },
   "description": "This extension generates getter and setter for given variable",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "images/icon.png",
   "keywords": [
     "php",
