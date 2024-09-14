@@ -1,12 +1,12 @@
 {
   "name": "syedgalib-vsce-php-getter-and-setter",
-  "displayName": "PHP Getter And Setter",
+  "displayName": "PHP Getter And Setter Generator",
   "publisher": "SyedGalibAhmed",
   "author": {
     "name": "Syed Galib Ahmed"
   },
   "description": "This extension generates getter and setter for given variable",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/icon.png",
   "keywords": [
     "php",
