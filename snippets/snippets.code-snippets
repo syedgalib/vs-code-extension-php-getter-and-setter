@@ -1,0 +1,46 @@
+{
+    "generate_getter_and_setter_with_type_cast": {
+		"scope": "php",
+		"prefix": "gtr",
+		"body": [
+			"/**",
+			" * @param $0 $${1:$CLIPBOARD}",
+			" * @return self",
+			" */",
+			"public function set_$1( $0 $${1:$CLIPBOARD} ): self {",
+			"    \\$this->${1:CLIPBOARD} = $${1:$CLIPBOARD};",
+			"    return \\$this;",
+			"}",
+			"",
+			"/**",
+			" * @return $0",
+			" */",
+			"public function get_$1(): $0 {",
+			"    return \\$this->${1:$CLIPBOARD};",
+			"}",
+		],
+		"description": "Generates getter and setter"
+	},
+    "generate_getter_and_setter_without_type_cast": {
+		"scope": "php",
+		"prefix": "gtr",
+		"body": [
+			"/**",
+			" * @param $0 $${1:$CLIPBOARD}",
+			" * @return self",
+			" */",
+			"public function set_$1( $${1:$CLIPBOARD} ) {",
+			"    \\$this->${1:CLIPBOARD} = $${1:$CLIPBOARD};",
+			"    return \\$this;",
+			"}",
+			"",
+			"/**",
+			" * @return $0",
+			" */",
+			"public function get_$1() {",
+			"    return \\$this->${1:$CLIPBOARD};",
+			"}",
+		],
+		"description": "Generates getter and setter"
+	}
+}
