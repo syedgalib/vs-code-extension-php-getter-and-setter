@@ -2,10 +2,22 @@
   "name": "syedgalib-vsce-php-getter-and-setter",
   "displayName": "PHP Getter And Setter",
   "publisher": "SyedGalibAhmed",
+  "author": {
+    "name": "Syed Galib Ahmed"
+  },
   "description": "This extension generates getter and setter for given variable",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "images/icon.png",
+  "keywords": [
+    "php",
+    "php dto",
+    "php getter and setter",
+    "php getter and setter generator",
+    "php getter & setter",
+    "php getter & setter generator"
+  ],
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Snippets", "Keymaps"
@@ -31,6 +43,7 @@
     ]
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/syedgalib/vs-code-extension-php-getter-and-setter"
   }
 }
