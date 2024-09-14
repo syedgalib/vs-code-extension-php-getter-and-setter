@@ -4,4 +4,4 @@
 
 ### Added
 
-- Keybord shortcuts for inserting getter and setter.
+- Keyboard shortcuts for inserting getter and setter.
