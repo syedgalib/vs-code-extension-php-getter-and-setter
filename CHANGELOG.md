@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.7] - Initial Release
+## [0.0.8] - Initial Release
 
 ### Added
 
