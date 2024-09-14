@@ -1,5 +1,5 @@
 {
-  "name": "@syedgalib/vsce-php-getter-and-setter",
+  "name": "syedgalib-vsce-php-getter-and-setter",
   "displayName": "PHP Getter And Setter",
   "publisher": "SyedGalibAhmed",
   "description": "This extension generates getter and setter for given variable",
