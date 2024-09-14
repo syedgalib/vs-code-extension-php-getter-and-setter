@@ -1,7 +1,7 @@
 {
     "generate_getter_and_setter_with_type_cast": {
 		"scope": "php",
-		"prefix": "gtr",
+		"prefix": "gtrt",
 		"body": [
 			"/**",
 			" * @param $0 $${1:$CLIPBOARD}",
