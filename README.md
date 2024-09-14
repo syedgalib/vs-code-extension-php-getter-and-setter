@@ -1,6 +1,5 @@
-# PHP Getter & Setter
-
-## Keyboard shortcuts for inserting getter and setter
+# Features
+### Available commands
 
 The snippets has clipboard support, so any coppied text will be used as the property name in the inserted code.
 
